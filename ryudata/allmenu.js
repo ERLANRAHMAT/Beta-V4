@@ -28,6 +28,7 @@ Instagram : @erlanrahmat_14
 ⚘👾 ${prefix}cekabsen
 ⚘👾 ${prefix}hapusabsen
 ⚘👾 ${prefix}linkgroup
+⚘👾 ${prefix}tagall
 ⚘👾 ${prefix}ephemeral [option]
 ⚘👾 ${prefix}setppgc
 ⚘👾 ${prefix}setname [text]
