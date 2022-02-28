@@ -48,6 +48,7 @@ Instagram : @erlanrahmat_14_
 ⚘👾 ${prefix}antivirtex
 ⚘👾 ${prefix}linkgroup
 ⚘👾 ${prefix}tagall
+⚘👾 ${prefix}hidetag
 ⚘👾 ${prefix}ephemeral [option]
 ⚘👾 ${prefix}setppgc
 ⚘👾 ${prefix}setname [text]
